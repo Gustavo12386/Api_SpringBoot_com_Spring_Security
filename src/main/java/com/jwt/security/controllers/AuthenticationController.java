@@ -35,7 +35,7 @@ public class AuthenticationController {
 		this.authenticationManager = authenticationManager;
 		this.repository = repository;
 		this.tokenService = tokenService;
-	}	
+	}
 	   
 	@PostMapping("/login")
 	public ResponseEntity<LoginResponseDTO> login(@RequestBody AuthenticationDTO authenticationDTO) {
