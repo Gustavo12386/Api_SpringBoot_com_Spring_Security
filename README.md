@@ -20,7 +20,7 @@ no qual que fornece autenticação, autorização e outros recursos de seguranç
 - Para acessar o endpoint da API: `localhost:8080/auth/register` ou `localhost:8080/auth/login` 
 
 ## Imagem de representação da emissão do token de autenticação
-- ![json2](https://github.com/user-attachments/assets/2cdcb534-0040-4fe0-8d55-04ab69fd4399)
+![json2](https://github.com/user-attachments/assets/2cdcb534-0040-4fe0-8d55-04ab69fd4399)
 
 ## Imagem do Json dos produtos cadastrados
 ![json1](https://github.com/user-attachments/assets/a68ef015-0c6a-4ae6-bf85-c51dd683c5e3)
