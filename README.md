@@ -14,6 +14,10 @@ no qual que fornece autenticação, autorização e outros recursos de seguranç
 - PostgreSQL
 - Maven
 
+## 🗒️ Roteiro
+- [ ] Criação da API
+- [ ] Inserção do JWT e Spring Security para a realização da autenticação
+
 ## 🚀 Como Executar
 - Clone o repositório
 - Abra em qualquer IDE Java
