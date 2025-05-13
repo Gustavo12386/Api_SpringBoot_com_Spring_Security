@@ -2,12 +2,13 @@
 
 ## 💻 Sobre o Projeto
 - Esse projeto se trata de uma api de cadastro de produtos e também de cadastro e login de usuários. Essa aplicação foi realizada
- com a linguagem de programação java junto com o framework Spring Boot acompanhado com uma de suas estruturas o Spring Security,
+ com a linguagem de programação java junto com o framework Spring Boot acompanhado com uma de suas estruturas o Spring Security junto com o JWT,
 no qual que fornece autenticação, autorização e outros recursos de segurança para aplicativos corporativos.
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
-- Spring Boot 3.4.2
+- Spring Boot
+- JWT
 - Spring Security
 - Spring Dev Tools Suite 4(IDE)
 - PostgreSQL
