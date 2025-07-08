@@ -1,4 +1,4 @@
-# Api_SpringBoot_e_SpringSecurity
+# Api_Cadastro_de_Produtos_e_Usuarios
 
 ## 💻 Sobre o Projeto
 - Esse projeto se trata de uma api de cadastro de produtos e também de cadastro e login de usuários. Essa aplicação foi realizada
